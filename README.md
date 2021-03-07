@@ -14,4 +14,4 @@ Example of generated database:
 
 Not the best looking app but does it purpose :)
 
-
+JavaFX For visual.
